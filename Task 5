@@ -4,7 +4,7 @@ int main(){
     int height, width;
     height = 7;
     width = 5;
-    printf("Perimeter of the rectangle = %d inches\n",2*(height+width));
-    printf("Area of the rectangle = %d inches\n",height*width);
+    printf("Perimeter of the rectangle = %d inches\n",2*(height+width));//perimeter of a rectangle is 2*(height+width)
+    printf("Area of the rectangle = %d inches\n",height*width); //area of a rectangle is height*width
     return 0;
 }
